@@ -182,4 +182,4 @@ export AWS_PROFILE=<seu-perfil>
 
 
 Não usamos data "aws_*" para compatibilidade com ambientes que bloqueiam Describe*.
-
+-----------------------------------------------------------------------------------
